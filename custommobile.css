@@ -71,6 +71,12 @@
   .toolbar-background-wp {
     background: #277d80;
   }
+
+    .toolbar-background-md,
+    .toolbar-background-ios,
+    .toolbar-background-wp {
+        background: #277d80;
+    }
   
   /* Bottom tabs selected color */
   .tabs-md .tab-button[aria-selected=true] .tab-button-icon,
