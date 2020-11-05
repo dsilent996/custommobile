@@ -1,5 +1,5 @@
 .bar-header {
-    background-color: #277d80;
+    background-color: red;
   }
   
   ion-app.platform-* .bar-header {
@@ -25,7 +25,7 @@
     color: red;
   }
   .ion-home {
-    color: blue;
+    color: red;
   }
   .ion-ios-bell {
     color: yellow;
