@@ -1,5 +1,5 @@
 .bar-header {
-    background-color: red;
+    background-color: #277d80;
   }
   
   ion-app.platform-* .bar-header {
@@ -25,7 +25,7 @@
     color: red;
   }
   .ion-home {
-    color: red;
+    color: blue;
   }
   .ion-ios-bell {
     color: yellow;
@@ -69,7 +69,7 @@
   .toolbar-background-md,
   .toolbar-background-ios,
   .toolbar-background-wp {
-    background: #5069A1;
+    background: #277d80;
   }
   
   /* Bottom tabs selected color */
@@ -87,13 +87,13 @@
   
   /* Tabs color*/
   .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-    color: #5069A1 !important;
-    border-bottom-color: #5069A1 !important;
+    color: #277d80 !important;
+    border-bottom-color: #277d80 !important;
   }
   
   /* Loading spinner */
   .spinner circle, .spinner line {
-      stroke: #5069A1;
+      stroke: #277d80;
   }
   
   /* Buttons */
@@ -103,22 +103,22 @@
   .fab-ios,
   .fab-md,
   .fab-wp {
-    background-color: #5069A1;
+    background-color: #277d80;
   }
   
   .button-outline-md,
   .button-outline-ios,
   .button-outline-wp {
-      border-color: #5069A1;
+      border-color: #277d80;
       background-color: #ffffff;
-      color: #5069A1;
+      color: #277d80;
   }
   
   .button-clear-md,
   .button-clear-ios,
   .button-clear-wp {
     background-color: transparent;
-    color: #5069A1;
+    color: #277d80;
   }
   
   /* More icon colors */
