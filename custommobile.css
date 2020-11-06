@@ -62,6 +62,24 @@
   .mm-site_mm_courses section h2 span {
     font-weight: bold;
   }
+
+    ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] {
+        color: #5b8cc3!important;
+        border-bottom-color: #5b8cc3!important;
+    }
+
+
+ion-app.app-root .core-button-select .select-icon .select-icon-inner, ion-app.app-root ion-select.core-button-select .select-icon .select-icon-inner {
+    color: #5b8cc3;
+}
+
+ion-app.app-root .core-button-select, ion-app.app-root ion-select.core-button-select {
+    color: #5b8cc3;
+}
+
+ion-app.app-root core-empty-box .core-empty-box .core-empty-box-content {
+    background: white;
+}
   
   /* 3.5 styles */
   
@@ -88,7 +106,7 @@
   .tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
   .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
   .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
-    color: #EBEFF8;
+    color: #277d80;
   }
   
   /* Tabs color*/
