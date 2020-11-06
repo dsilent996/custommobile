@@ -63,9 +63,11 @@
     font-weight: bold;
   }
 
-    ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] {
-        color: #5b8cc3!important;
-        border-bottom-color: #5b8cc3!important;
+    .ion-app.app-root 
+    .core-tabs-bar 
+    .tab-slide[aria-selected=true] {
+        color: #5b8cc3;
+        border-bottom-color: #5b8cc3;
     }
 
 
@@ -77,7 +79,7 @@ ion-app.app-root .core-button-select, ion-app.app-root ion-select.core-button-se
     color: #5b8cc3;
 }
 
-ion-app.app-root core-empty-box .core-empty-box .core-empty-box-content {
+.ion-app.app-root core-empty-box .core-empty-box .core-empty-box-content {
     background: white;
 }
   
