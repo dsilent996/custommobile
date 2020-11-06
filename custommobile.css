@@ -187,13 +187,13 @@ ion-app.app-root .core-button-select, ion-app.app-root ion-select.core-button-se
   page-core-mainmenu-more .ion-md-qr-scanner,
   page-core-mainmenu-more .ion-ios-qr-scanner,
   page-core-mainmenu-more .ion-wp-qr-scanner {
-    color: orange;
+    color: #007982;
   }
   
   page-core-mainmenu-more .ion-md-help-buoy,
   page-core-mainmenu-more .ion-ios-help-buoy,
   page-core-mainmenu-more .ion-wp-help-buoy {
-    color: orange;
+    color: #007982;
   }
   
   page-core-mainmenu-more .ion-md-cog,
