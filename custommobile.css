@@ -2,7 +2,7 @@
     background-color: #277d80;
   }
   
-  ion-app.platform-android .bar-header {
+  ion-app.platform-* .bar-header {
     background-color: #277d80;
   }
 
@@ -66,10 +66,10 @@
   /* 3.5 styles */
   
   /** Header color */
-  ion-app.platform-android .toolbar-background-md,
+  ion-app.platform-* .toolbar-background-md,
   .toolbar-background-ios,
   .toolbar-background-wp {
-    background: #277d80;
+    background-color: #277d80;
   }
 
     .toolbar-background-md,
